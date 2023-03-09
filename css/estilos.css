@@ -50,3 +50,13 @@ body
     background: white;
     padding: 1em;
 }
+
+#post {
+    padding: 1em
+}
+
+#footer {
+    background: teal;
+    color: white;
+    text-align: center;
+}
