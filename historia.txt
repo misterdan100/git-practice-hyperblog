@@ -4,4 +4,6 @@ Modificando historia para verificar la conexion con GitHub
 
 Master 1
 
+Master 2
+
 Probando que funicona el archivo de anita
